@@ -2,7 +2,7 @@
 
 Demonstration of Jetpack Compose Side Effect Handlers.
 
-_Check out Medium Article from [here]()._
+_Check out Medium Article from [here](https://medium.com/huawei-developers/side-effects-in-jetpack-compose-61fb26fe872f)._
 
 
 ### A Side Effect Example
